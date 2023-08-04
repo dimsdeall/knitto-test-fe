@@ -23,8 +23,8 @@ export default function Home() {
       url: "https://redux-toolkit.js.org/rtk-query/overview",
     },
     {
-      name: "Firebase Hosting",
-      url: "https://firebase.google.com/docs/hosting",
+      name: "Vercel",
+      url: "https://vercel.com",
     },
   ];
 
